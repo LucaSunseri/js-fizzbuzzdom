@@ -3,10 +3,11 @@ body {
 }
 
 .ls-font-size {
-  font-size: 70px;
+  font-size: 60px;
   font-weight: 600;
 }
 
+/* general style box */
 .ls-box {
   display: flex;
   justify-content: center;
@@ -17,6 +18,8 @@ body {
   margin: 10px;
 }
 
+
+/* color box */
 .ls-blue {
   background: #1389b2;
 }
